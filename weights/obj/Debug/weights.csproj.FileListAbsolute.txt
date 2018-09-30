@@ -1,0 +1,7 @@
+C:\Users\Andy\OneDrive - University of Lincoln\Problem Solving\weights\weights\obj\Debug\weights.csprojAssemblyReference.cache
+C:\Users\Andy\OneDrive - University of Lincoln\Problem Solving\weights\weights\obj\Debug\weights.csproj.CoreCompileInputs.cache
+C:\Users\Andy\OneDrive - University of Lincoln\Problem Solving\weights\weights\bin\Debug\weights.exe.config
+C:\Users\Andy\OneDrive - University of Lincoln\Problem Solving\weights\weights\bin\Debug\weights.exe
+C:\Users\Andy\OneDrive - University of Lincoln\Problem Solving\weights\weights\bin\Debug\weights.pdb
+C:\Users\Andy\OneDrive - University of Lincoln\Problem Solving\weights\weights\obj\Debug\weights.exe
+C:\Users\Andy\OneDrive - University of Lincoln\Problem Solving\weights\weights\obj\Debug\weights.pdb
